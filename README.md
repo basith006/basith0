@@ -9,7 +9,9 @@
 - :left_speech_bubble: Need a Peaceful Life
 - :email: How to reach me: abdulbasith8011@gmail.com 
 
+
 <br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://whatsapp.com/+91-8489012341" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" alt=sojasheik" height="30" width="40" /></a>
