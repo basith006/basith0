@@ -1,6 +1,6 @@
 <h1 align="center"> Hello 👋🏽, I'm Abdul Basith </h1>
 
-  <img align="right" alt="gif" src="https://images.app.goo.gl/VhqhXfcTmd34zfxv9.gif"/> 
+  <img align="right" alt="gif" src="https://https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/> 
 
 - :zap: I'm focus on my dreams :sparkles:
 - :orange_book: Day By Day, I learn everything :smiley:
