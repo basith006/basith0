@@ -18,14 +18,6 @@
 <a href="https://www.instagram.com/_mr._.basith_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="craziest_king_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://whatsapp.com/+91-9360608380" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" alt=sojasheik" height="30" width="40" /></a>
-<a href="https://twitter.com/sheik_soja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Annamalai345" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/Samsudeen Sha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="annamalai923" height="30" width="40" /></a>
-<a href="https://www.instagram.com/soja_sheik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="craziest_king_" height="30" width="40" /></a>
-</p>
-
 <h2>Skills</h2>
 <p> 
 <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" height="65"/>
