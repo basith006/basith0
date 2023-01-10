@@ -10,9 +10,9 @@
 - :email: How to reach me: abdulbasith8011@gmail.com 
 
 <br />
-<a href="https://whatsapp.com/+91-8489012341" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" alt=sojasheik" height="30" width="40" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
+  <a href="https://whatsapp.com/+91-8489012341" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" alt=sojasheik" height="30" width="40" /></a>
 <a href="https://twitter.com/@mr_basith_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Annamalai345" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdul Basith/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="annamalai923" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_mr._.basith_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="craziest_king_" height="30" width="40" /></a>
